@@ -13,3 +13,8 @@ Ghazal Bigdeli
 # Activity 4
 ![activity4a](https://user-images.githubusercontent.com/46912725/135737961-b8ad9b15-3e3f-4fcb-85ac-bd2f2a8b50d9.png)
 ![activity4b](https://user-images.githubusercontent.com/46912725/135737964-e86fe20f-ea40-4742-aabe-9077d1f34a76.png)
+
+# Activity 5
+A functional requirement I would like to improve is have a list of courses appear even if one of the fields is missing an input. For example, if the user filled out the search term but did not choose a specific course year, the system should display courses from all years that fit the search term.
+
+A non-functional requirement I would like to improve is the usability. The system does not have a lot of visual clarity. After searching a term, the list of courses is shown with no separation between each course, causing the descriptions to merge together and look like a wall of text. I would like to add more visual clarity by separating the course information properly and making it easier to read.
