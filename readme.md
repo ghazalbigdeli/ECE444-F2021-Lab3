@@ -1,3 +1,6 @@
+This repo is a clone of https://github.com/nelaturuk/education_pathways.
+Ghazal Bigdeli
+
 # CARTE Education Pathways
 
 ## Description
