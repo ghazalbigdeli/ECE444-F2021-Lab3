@@ -3,3 +3,6 @@ Ghazal Bigdeli
 
 # Activity 1
 ![activity1](https://user-images.githubusercontent.com/46912725/135737316-8aecb4c8-70a6-4fe1-8d42-9ab19dd6eaa9.png)
+
+# Activity 2
+![image](https://user-images.githubusercontent.com/46912725/135737341-da977fa4-5920-4f9f-8a04-e25ff753f7f4.png)
